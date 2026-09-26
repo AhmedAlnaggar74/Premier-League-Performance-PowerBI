@@ -75,9 +75,9 @@ Premier-League-Performance-PowerBI/
 │
 ├── 📊 Premier_League_Analytics.pbix   <-- ملف الباور بي آي
 │
-├── 📁 Data/                            <-- مجلد ضع فيه ملف/ملفات الإكسل أو ה-CSV المستوردة
+├── 📁 Data/
 │
-└── 📁 Screenshots/                     <-- مجلد ضع فيه الصور الثلاث التي أخذتها
+└── 📁 Screenshots/                     <--
     ├── Executive_Overview.png
     ├── Team_Performance.png
     └── Referee_Discipline.png
