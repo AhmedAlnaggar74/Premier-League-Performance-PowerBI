@@ -73,11 +73,11 @@ Avg Yellow Cards Per Match = DIVIDE([Total Yellow Cards], [Total Matches], 0)
 
 Premier-League-Performance-PowerBI/
 │
-├── 📊 Premier_League_Analytics.pbix   <-- ملف الباور بي آي
+├── 📊 Premier_League_Analytics.pbix 
 │
 ├── 📁 Data/
 │
-└── 📁 Screenshots/                     <--
+└── 📁 Screenshots/                    
     ├── Executive_Overview.png
     ├── Team_Performance.png
     └── Referee_Discipline.png
